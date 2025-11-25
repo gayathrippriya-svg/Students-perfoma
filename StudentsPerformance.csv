@@ -1,12 +1,13 @@
-sno,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
-1,female,group B,bachelor's degree,standard,none,72,72,74
-2,female,group C,some college,standard,completed,69,90,88
-3,female,group B,master's degree,standard,none,90,95,93
-4,male,group A,associate's degree,free/reduced,none,47,57,44
-5,male,group C,some college,standard,none,76,78,75
-6,female,group B,associate's degree,standard,none,71,83,78
-7,female,group B,some college,standard,completed,88,95,92
-8,male,group B,some college,free/reduced,none,40,43,39
-9,male,group D,high school,free/reduced,completed,64,64,67
-10,female,group B,high school,free/reduced,none,38,60,50
+sno,names,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+1,amenda,group B,bachelor's degree,standard,none,72,72,74
+2,christina,group C,some college,standard,completed,69,90,88
+3,vaniya,group B,master's degree,standard,none,90,95,93
+4,grace,group A,associate's degree,free/reduced,none,47,57,44
+5,trixe,group C,some college,standard,none,76,78,75
+6,chloi,group B,associate's degree,standard,none,71,83,78
+7,mazakeen,group B,some college,standard,completed,88,95,92
+8,dan,group B,some college,free/reduced,none,40,43,39
+9,cooper,group D,high school,free/reduced,completed,64,64,67
+10,pabulo,group B,high school,free/reduced,none,38,60,50
+
 
